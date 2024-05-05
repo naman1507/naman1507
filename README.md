@@ -32,15 +32,7 @@
 
 ### 👉 Frameworks
 <p align="left"> 
-&emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   </a>
-  &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>   
-  &emsp;
+ 
   <a href="https://scikit-learn.org/" target="_blank">
     <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a> 
@@ -51,6 +43,10 @@
   &emsp;
   <a href="https://pytorch.org/" target="_blank"> 
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://metaflow.org/" target="_blank"> 
+    <img alt="Metaflow" src="https://img.shields.io/badge/Metaflow-EE4C2C?style=for-the-badge&logo=Metaflow&logoColor=white"/>
   </a>
 </p>
 

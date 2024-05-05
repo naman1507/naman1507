@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there I'm Naman Agarwal 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Naman!;I'm+a+Software+Developer...;I'm+also+a+Machine+Learning+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+a+Software+Developer...;I'm+also+a+Machine+Learning+Engineer;)](https://git.io/typing-svg)
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 

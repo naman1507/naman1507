@@ -24,7 +24,7 @@
   </a>
   &emsp;
 <a href="https://www.c.com/en/">
-    <img alt="C" src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
 
 

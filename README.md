@@ -18,66 +18,45 @@
 
 ### 👉 Programming languages
 
-<p align="left"> 
-  
-
 <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  </a>
-  &emsp;
+  </a>&nbsp;
 <a href="https://www.c.com/en/">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-  &emsp;
+  </a>&nbsp;
 <a href="https://www.c++.com/en/">
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </a>
-  &emsp;
+  </a>&nbsp;
 
 
 </p>
 
 ### 👉 Frameworks
-<p align="left"> 
- 
-  <a href="https://scikit-learn.org/" target="_blank">
+<a href="https://scikit-learn.org/" target="_blank">
     <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-EE4C2C?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-F7931E?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://metaflow.org/" target="_blank"> 
-    <img alt="Metaflow" src="https://img.shields.io/badge/Metaflow-EE4C2C?style=for-the-badge&logo=Metaflow&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> 
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-FCC624?style=for-the-badge&logo=Flask&logoColor=black"/>
-  </a>
-</p>
+</a> &nbsp;
+<a href="https://keras.io/" target="_blank"> 
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-EE4C2C?style=for-the-badge&logo=Keras&logoColor=white">
+</a>&nbsp;
+<a href="https://pytorch.org/" target="_blank"> 
+    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-F7931E?style=for-the-badge&logo=PyTorch&logoColor=white">
+</a>&nbsp;
+<a href="https://metaflow.org/" target="_blank"> 
+    <img alt="Metaflow" src="https://img.shields.io/badge/Metaflow-EE4C2C?style=for-the-badge&logo=Metaflow&logoColor=white">
+</a>&nbsp;
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> 
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-FCC624?style=for-the-badge&logo=Flask&logoColor=black">
+</a>
+
 
 ### 👉 Databases
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2CA5E0?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.influxdata.com/"><img alt="InfluxDb" src ="https://img.shields.io/badge/InfluxDb-0078D4?style=for-the-badge&logo=influxdb&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.pinecone.io/"><img alt="Pinecone" src ="https://img.shields.io/badge/Pinecone-F9AB00?style=for-the-badge&logo=pinecone&logoColor=black"/></a>
-  &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  &emsp;
-    <a href="https://neo4j.com/"><img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-F05032?style=for-the-badge&logo=neo4j&logoColor=black"/></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2CA5E0?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>&nbsp;
+<a href="https://www.influxdata.com/"><img alt="InfluxDb" src ="https://img.shields.io/badge/InfluxDb-0078D4?style=for-the-badge&logo=influxdb&logoColor=white"/></a>&nbsp;
+<a href="https://www.pinecone.io/"><img alt="Pinecone" src ="https://img.shields.io/badge/Pinecone-%23121011?style=for-the-badge&logo=pinecone&logoColor=black"/></a>&nbsp;
+<a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>&nbsp;
+<a href="https://neo4j.com/"><img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-F05032?style=for-the-badge&logo=neo4j&logoColor=black"/></a>
 
-   
- </p>
 
  ### 👉 Software & OS
  
@@ -92,14 +71,18 @@
     
 
 ### 👉 Data Visualization
-<p align="left">
-  &emsp;
-    <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-2CA5E0?style=for-the-badge&logo=grafana&logoColor=white"></a>
-  &emsp;
-    <a href="https://powerbi.microsoft.com/en-us/desktop/"><img alt="PowerBI" src ="https://img.shields.io/badge/PowerBI-FE7A16?style=for-the-badge&logo=powerbi&logoColor=white"/></a>
-  &emsp;
-    <a href="https://plotly.com/python/"><img alt="Plotly" src ="https://img.shields.io/badge/Plotly-0078D4?style=for-the-badge&logo=plotly&logoColor=white"/></a>
- </p>
+<a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-2CA5E0?style=for-the-badge&logo=grafana&logoColor=white"></a>&nbsp;
+<a href="https://powerbi.microsoft.com/en-us/desktop/"><img alt="PowerBI" src ="https://img.shields.io/badge/PowerBI-FE7A16?style=for-the-badge&logo=powerbi&logoColor=white"/></a>&nbsp;
+<a href="https://plotly.com/python/"><img alt="Plotly" src ="https://img.shields.io/badge/Plotly-0078D4?style=for-the-badge&logo=plotly&logoColor=white"/></a>
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/naman-agarwal-bbb9b6158/"><img src="https://img.shields.io/badge/-Naman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:namanagarwal097@gmail.com"><img src="https://img.shields.io/badge/-Naman-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/naman_agarwal_97/"><img src="https://img.shields.io/badge/-Naman-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
      
     

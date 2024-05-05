@@ -22,15 +22,15 @@
   
 
 <a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
   &emsp;
 <a href="https://www.c.com/en/">
-    <img alt="C" src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
   &emsp;
 <a href="https://www.c++.com/en/">
-    <img alt="C++" src="https://img.shields.io/badge/C++-EE4C2C?style=for-the-badge&logo=c++&logoColor=black"/>
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
   &emsp;
 
@@ -66,35 +66,30 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2CA5E0?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-FE7A16?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   &emsp;
     <a href="https://www.influxdata.com/"><img alt="InfluxDb" src ="https://img.shields.io/badge/InfluxDb-0078D4?style=for-the-badge&logo=influxdb&logoColor=white"/></a>
   &emsp;
     <a href="https://www.pinecone.io/"><img alt="Pinecone" src ="https://img.shields.io/badge/Pinecone-F9AB00?style=for-the-badge&logo=pinecone&logoColor=black"/></a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDb" src ="https://img.shields.io/badge/MongoDb-FCC624?style=for-the-badge&logo=mongodb&logoColor=black"/></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   &emsp;
     <a href="https://neo4j.com/"><img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-F05032?style=for-the-badge&logo=neo4j&logoColor=black"/></a>
 
    
  </p>
 
- ### 👉 Software & Tools
+ ### 👉 Software & OS
  
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp;
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+    
 
 ### 👉 Data Visualization
 <p align="left">

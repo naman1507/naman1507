@@ -10,6 +10,7 @@
 - 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1yxm6lNWxdP5WX-Mhv1nUMDAZaf1Gx6gQ/view?usp=drive_link)
 - 💬 Ask me about Programming or Machine Learning
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <!--
 **naman1507/naman1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

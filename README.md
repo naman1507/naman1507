@@ -71,7 +71,7 @@
     
 
 ### 👉 Data Visualization
-<a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-2CA5E0?style=for-the-badge&logo=grafana&logoColor=white"></a>&nbsp;
+<a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-FE7A16?style=for-the-badge&logo=grafana&logoColor=black"></a>&nbsp;
 <a href="https://powerbi.microsoft.com/en-us/desktop/"><img alt="PowerBI" src ="https://img.shields.io/badge/PowerBI-FE7A16?style=for-the-badge&logo=powerbi&logoColor=white"/></a>&nbsp;
 <a href="https://plotly.com/python/"><img alt="Plotly" src ="https://img.shields.io/badge/Plotly-0078D4?style=for-the-badge&logo=plotly&logoColor=white"/></a>
 

@@ -12,6 +12,8 @@
 - 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1yxm6lNWxdP5WX-Mhv1nUMDAZaf1Gx6gQ/view?usp=drive_link)
 
 
+
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -26,6 +28,11 @@
 <a href="https://www.c.com/en/">
     <img alt="C" src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
+  &emsp;
+<a href="https://www.c++.com/en/">
+    <img alt="C++" src="https://img.shields.io/badge/C++-EE4C2C?style=for-the-badge&logo=c++&logoColor=black"/>
+  </a>
+  &emsp;
 
 
 </p>
@@ -38,11 +45,11 @@
   </a> 
    &emsp;
   <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-EE4C2C?style=for-the-badge&logo=Keras&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-F7931E?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://metaflow.org/" target="_blank"> 
@@ -50,24 +57,24 @@
   </a>
   &emsp;
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> 
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-EE4C2C?style=for-the-badge&logo=Flask&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-FCC624?style=for-the-badge&logo=Flask&logoColor=black"/>
   </a>
 </p>
 
 ### 👉 Databases
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2CA5E0?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-FE7A16?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.influxdata.com/"><img alt="InfluxDb" src ="https://img.shields.io/badge/InfluxDb-07405E?style=for-the-badge&logo=influxdb&logoColor=white"/></a>
+    <a href="https://www.influxdata.com/"><img alt="InfluxDb" src ="https://img.shields.io/badge/InfluxDb-0078D4?style=for-the-badge&logo=influxdb&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.pinecone.io/"><img alt="Pinecone" src ="https://img.shields.io/badge/Pinecone-07405E?style=for-the-badge&logo=pinecone&logoColor=white"/></a>
+    <a href="https://www.pinecone.io/"><img alt="Pinecone" src ="https://img.shields.io/badge/Pinecone-F9AB00?style=for-the-badge&logo=pinecone&logoColor=black"/></a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDb" src ="https://img.shields.io/badge/MongoDb-07405E?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDb" src ="https://img.shields.io/badge/MongoDb-FCC624?style=for-the-badge&logo=mongodb&logoColor=black"/></a>
   &emsp;
-    <a href="https://neo4j.com/"><img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-07405E?style=for-the-badge&logo=neo4j&logoColor=white"/></a>
+    <a href="https://neo4j.com/"><img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-F05032?style=for-the-badge&logo=neo4j&logoColor=black"/></a>
 
    
  </p>
@@ -87,6 +94,18 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+
+
+### 👉 Data Visualization
+<p align="left">
+  &emsp;
+    <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-2CA5E0?style=for-the-badge&logo=grafana&logoColor=white"></a>
+  &emsp;
+    <a href="https://powerbi.microsoft.com/en-us/desktop/"><img alt="PowerBI" src ="https://img.shields.io/badge/PowerBI-FE7A16?style=for-the-badge&logo=powerbi&logoColor=white"/></a>
+  &emsp;
+    <a href="https://plotly.com/python/"><img alt="Plotly" src ="https://img.shields.io/badge/Plotly-0078D4?style=for-the-badge&logo=plotly&logoColor=white"/></a>
+ </p>
+
      
     
 

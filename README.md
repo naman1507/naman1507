@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Naman!;I'm+a+Software+Developer...;I'm+also+Machine+Learning+Engineer;)](https://git.io/typing-svg)
+
+
 <!--
 **naman1507/naman1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

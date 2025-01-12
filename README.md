@@ -6,10 +6,10 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working at IIT Bhilai as a R&D Engineer.
-- 🌱 I've 3+ years of professional experience, worked at Cognizant, Intel as Python Software Developer. 
+- 🔭 I’m currently working at Radcom Ltd. as a Software Engineer – R&D and Analytics.
+- 🌱 I've 3+ years of professional experience, worked at Cognizant, Intel as Python Software Developer and S3 Labs, IIT Bhilai as R&D Software Engineer and Data Scientist. 
 - 👯 I’m looking to collaborate on Software Development, Machine Learning, Deep Learning and Generative AI Projects.
-- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1yxm6lNWxdP5WX-Mhv1nUMDAZaf1Gx6gQ/view?usp=drive_link)
+- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1bLOwER3ASyHP0QPdZewoCbOOcu1Q3vqp/view?usp=sharing)
 
 
 
@@ -46,6 +46,9 @@
 </a>&nbsp;
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> 
     <img alt="Flask" src="https://img.shields.io/badge/Flask-FCC624?style=for-the-badge&logo=Flask&logoColor=black">
+</a>&nbsp;
+<a href="https://flink.apache.org/" target="_blank"> 
+    <img alt="Apache Flink" src="https://img.shields.io/badge/Apache Flink-EE4C2C?style=for-the-badge&logo=Apache Flink&logoColor=white">
 </a>
 
 

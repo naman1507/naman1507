@@ -49,6 +49,9 @@
 </a>&nbsp;
 <a href="https://flink.apache.org/" target="_blank"> 
     <img alt="Apache Flink" src="https://img.shields.io/badge/Apache Flink-EE4C2C?style=for-the-badge&logo=Apache Flink&logoColor=white">
+</a>&nbsp;
+<a href="https://kafka.apache.org/" target="_blank"> 
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache Kafka-F7931E?style=for-the-badge&logo=Apache Kafka&logoColor=white">
 </a>
 
 
@@ -71,6 +74,7 @@
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp;
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FCC624?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
     
 
 ### 👉 Data Visualization
